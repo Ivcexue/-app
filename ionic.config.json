@@ -1,0 +1,8 @@
+{
+  "name": "\u6d4b\u8bd5App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "d47a0916"
+}
